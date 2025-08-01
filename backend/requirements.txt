@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pdfminer.six
+docx2txt
+google-generativeai
+pydantic-settings
+SQLAlchemy
+passlib[bcrypt]
+python-jose[cryptography]
